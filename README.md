@@ -71,28 +71,36 @@ Head:
 ![Screenshot 2024-08-28 083313](https://github.com/user-attachments/assets/85ff1336-7222-4015-ac47-8791bb9ae216)
 
 
+
 Tail:
 ![Screenshot 2024-08-28 083328](https://github.com/user-attachments/assets/ba765eb1-e929-4daf-b48c-09fc41281943)
+
 
 
 Array value of x:
 ![Screenshot 2024-08-28 083351](https://github.com/user-attachments/assets/1c0f12fa-eb92-402d-bac1-41decb2d9c17)
 
 
+
 Array value of y:
 ![Screenshot 2024-08-28 083411](https://github.com/user-attachments/assets/aa5cadfb-3665-4dce-983f-99a0d4f2d542)
+
 
 
 Y prediction:
 ![Screenshot 2024-08-28 083422](https://github.com/user-attachments/assets/0d6aed8d-ab37-48ad-85dd-e1aa632e0bc0)
 
 
+
 Array value of Y test:
 ![Screenshot 2024-08-28 083516](https://github.com/user-attachments/assets/dfe86769-a004-4c67-bed3-f72236a2f191)
 
 
+
 Training set graph:
 ![Screenshot 2024-08-28 083616](https://github.com/user-attachments/assets/a61bb062-e28c-44a7-991e-3b7044a6ac8e)
+
+
 
 
 
